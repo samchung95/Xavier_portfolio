@@ -1,0 +1,135 @@
+[
+    { "img_src":"/images/choir.jpg",
+      "title":"Edusave Good Progress Award 2021",
+      "details": [
+        {
+          "key": "Description",
+          "text": "Earned the Edusave Good Progress Award in 2021 for marked improvement in learning dispositions and displaying commendable conduct."
+        }
+        
+      ]
+    },
+    { "img_src":"/images/cert.jpg",
+      "title":"National Mathematical Olympiad of Singapore in 2021",
+      "details": [
+        {
+          "key": "Type",
+          "text": "Participation award"
+        },
+        {
+          "key": "Description",
+          "text": "Participated in the challenging National Mathematical Olympiad of Singapore in 2021."
+        }
+        
+      ]
+    },
+    { "img_src":"/images/medal.jpg",
+      "title":"App Development with Thunkable Enrichment Programme",
+      "details": [
+        {
+          "key": "Type",
+          "text": "Certificate of Completion"
+        },
+        {
+          "key": "Description",
+          "text": "Completed a comprehensive App Development Programme, mastering the Thunkable platform."
+        }
+        
+      ]
+    },
+    { "img_src":"/images/medal.jpg",
+      "title":"National Cyber Wellness Advocacy Challenge 2021",
+      "details": [
+        {
+          "key": "Type",
+          "text": "Certificate of Accomplishment"
+        },
+        {
+          "key": "Description",
+          "text": "Achieved a Certificate of Accomplishment in the National Cyber Wellness Advocacy Challenge 2021."
+        }
+        
+      ]
+    },
+    { "img_src":"/images/medal.jpg",
+      "title":"National Cyber Wellness Advocacy Challenge 2021",
+      "details": [
+        {
+          "key": "Type",
+          "text": "Certificate of Accomplishment"
+        },
+        {
+          "key": "Description",
+          "text": "Achieved a Certificate of Accomplishment in the National Cyber Wellness Advocacy Challenge 2021."
+        }
+        
+      ]
+    },
+    { "img_src":"/images/medal.jpg",
+      "title":"CDAC Year-end Programme P4 Little Poet (Mandarin) Award",
+      "details": [
+        {
+          "key": "Description",
+          "text": "Honoured with the Little Poet Award at the CDAC Year-end Programme for Mandarin proficiency."
+        }
+        
+      ]
+    },
+    { "img_src":"/images/medal.jpg",
+      "title":"North West Student WISE Enrichment Programme",
+      "details": [
+        {
+          "key": "Type",
+          "text": "Certificate of Achievement"
+        },
+        {
+          "key": "Description",
+          "text": "Obtained a Certificate of Achievement in the North West Student WISE Enrichment Programme."
+        }
+        
+      ]
+    },
+    { "img_src":"/images/medal.jpg",
+      "title":"Bukit Panjang Primary School Math Olympiad Programme",
+      "details": [
+        {
+          "key": "Type",
+          "text": "Certificate of Participation"
+        },
+        {
+          "key": "Description",
+          "text": "Participated in the rigorous Bukit Panjang Primary School Math Olympiad Programme."
+        }
+        
+      ]
+    },
+    { "img_src":"/images/medal.jpg",
+      "title":"Asia-Pacific Mathematical Olympiad for Primary Schools 2023",
+      "details": [
+        {
+          "key": "Type",
+          "text": "Participation Award"
+        },
+        {
+          "key": "Description",
+          "text": "Participated in the prestigious Asia-Pacific Mathematical Olympiad for Primary Schools 2023."
+        }
+        
+      ]
+    },
+    { "img_src":"/images/medal.jpg",
+      "title":"Raffles Institution Primary Mathematics World Contest 2022",
+      "details": [
+        {
+          "key": "Type",
+          "text": "Certificate of Participation"
+        },
+        {
+          "key": "Description",
+          "text": "Raffles Institution Primary Mathematics World Contest 2022: Participated in a prestigious international contest, enhancing my problem-solving skills and understanding of complex mathematical concepts."
+        }
+        
+      ]
+    }
+    
+  ]

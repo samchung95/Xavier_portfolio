@@ -1,0 +1,149 @@
+[
+    { "img_src":"images/scratch1.png",
+      "title":"Mario Game",
+      "details": [
+        {
+          "key": "Type",
+          "text": "Scratch"
+        },
+        {
+          "key": "Link",
+          "text": "https://scratch.mit.edu/projects/853700182/"
+        },
+        {
+          "key": "Description",
+          "text": "Developed a creative Mario-inspired platformer game on Scratch. The game is filled with obstacle courses, challenges, and enemies to mimic the thrill and adventure of the original Mario games."
+        }
+        
+      ]
+    },
+    { "img_src":"images/scratch2.png",
+      "title":"LEMONS!",
+      "details": [
+        {
+          "key": "Type",
+          "text": "Scratch"
+        },
+        {
+          "key": "Link",
+          "text": "https://scratch.mit.edu/projects/853700754/"
+        },
+        {
+          "key": "Description",
+          "text": "Produced an action-packed Scratch game emulating the 'bullet hell' genre, where players navigate through a barrage of lemon-shaped projectiles. The game promotes quick decision-making and hand-eye coordination, providing an intense gaming experience."
+        }
+        
+      ]
+    },
+    { "img_src":"images/scratch3.png",
+      "title":"My rhythm game",
+      "details": [
+        {
+          "key": "Type",
+          "text": "Scratch"
+        },
+        {
+          "key": "Link",
+          "text": "https://scratch.mit.edu/projects/853712612/"
+        },
+        {
+          "key": "Description",
+          "text": "Crafted a rhythm game on Scratch that tests timing and reflexes. The game syncs movements with different music beats, offering a wide range of difficulty levels to provide a fun, challenging musical experience."
+        }
+        
+      ]
+    },
+    { "img_src":"images/pythonpj2.PNG",
+      "title":"Python Algebra Helper",
+      "details": [
+        {
+          "key": "Type",
+          "text": "Python"
+        },
+        {
+          "key": "Link",
+          "text": "https://scratch.mit.edu/projects/834248058/fullscreen/"
+        },
+        {
+          "key": "Description",
+          "text": "Developed a Python-based 'Algebra Helper' equipped with a user-friendly GUI. This tool assists students in understanding algebraic equations better by dynamically converting provided parameters into comprehensible mathematical expressions."
+        }
+        
+      ]
+    },
+    { "img_src":"images/pythonpj1.PNG",
+      "title":"Tic-Tac-Toe",
+      "details": [
+        {
+          "key": "Type",
+          "text": "Python"
+        },
+        {
+          "key": "Link",
+          "text": "https://scratch.mit.edu/projects/834248058/fullscreen/"
+        },
+        {
+          "key": "Description",
+          "text": "Created a Python-based Tic-Tac-Toe game utilizing the terminal as a GUI. It features a user-friendly interface and maintains the classic rules of the game."
+        }
+        
+      ]
+    }
+    ,
+    { "img_src":"images/pythonpj2.PNG",
+      "title":"Rock Paper Scissors",
+      "details": [
+        {
+          "key": "Type",
+          "text": "Python"
+        },
+        {
+          "key": "Link",
+          "text": "https://scratch.mit.edu/projects/834248058/fullscreen/"
+        },
+        {
+          "key": "Description",
+          "text": "Developed a Rock Paper Scissors game in Python that operates through the terminal. The game involves simple command-line interactions, providing an engaging and quick gaming experience."
+        }
+        
+      ]
+    }
+    ,
+    { "img_src":"images/pythonpj2.PNG",
+      "title":"Python Christmas Card",
+      "details": [
+        {
+          "key": "Type",
+          "text": "Python"
+        },
+        {
+          "key": "Link",
+          "text": "https://scratch.mit.edu/projects/834248058/fullscreen/"
+        },
+        {
+          "key": "Description",
+          "text": "Utilized Python's turtle module to create a festive drawing of a Christmas tree and house. This project displays my ability to use programming for creative and visual tasks."
+        }
+        
+      ]
+    },
+    { "img_src":"images/pythonpj2.PNG",
+      "title":"Python Chinese New Year Card",
+      "details": [
+        {
+          "key": "Type",
+          "text": "Python"
+        },
+        {
+          "key": "Link",
+          "text": "https://scratch.mit.edu/projects/834248058/fullscreen/"
+        },
+        {
+          "key": "Description",
+          "text": "Employed Python's turtle module to design a Chinese New Year greeting card, demonstrating the versatility of Python beyond traditional programming tasks."
+        }
+        
+      ]
+    }
+    
+  ]
